@@ -1,0 +1,2 @@
+# frontend
+Capstone frontend project
